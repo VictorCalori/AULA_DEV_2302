@@ -5,3 +5,5 @@
 ![This is an image](https://i.ytimg.com/vi/vlDOjTaaEdA/maxresdefault.jpg)
 
 ![This is an image](rs6.png)
+
+./IMG/rs6.png
