@@ -6,4 +6,4 @@
 
 ![This is an image](rs6.png)
 
-./IMG/rs6.png
+![This is an image](./IMG/rs6.png)
