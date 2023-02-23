@@ -2,4 +2,4 @@
 
 Repositório - Curso de Desenvolvimento de Sistemas SENAI/SESI Sumaré
 
-![This is an image](https://i.pinimg.com/originals/96/24/68/962468cf1944cc6b47f30e4f2ac505fc.jpg)
+![This is an image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjI2g-O0qfSQbOM4Kv-A9zzKEj6s7vYAayraswgwzrdpx2KDRF9UAec7Hdr1pP4FVpDW8&usqp=CAU)
